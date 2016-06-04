@@ -5,4 +5,7 @@ Creating a new branch is quick.
 =======
 Creating a new branch is quick and simple.
 There is a bug
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
